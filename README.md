@@ -34,3 +34,6 @@
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
 🚀 Cara Submit
+
+## 🔗 Link Expo Snack
+[[Cek di Expo Snack](https://snack.expo.dev/@mendingpulang/tugas6)]
