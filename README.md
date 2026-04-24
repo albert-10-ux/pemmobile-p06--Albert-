@@ -29,7 +29,7 @@
 
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [[url-repo-kamu](https://github.com/albert-10-ux/pemmobile-p06--Albert-/tree/main)]
+1. Clone repo  : git clone [[url-repo-saya](https://github.com/albert-10-ux/pemmobile-p06--Albert-/tree/main)]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
